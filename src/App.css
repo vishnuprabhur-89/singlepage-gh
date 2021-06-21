@@ -9,7 +9,8 @@
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    width: 1500px;
+    height: 1500px;
   }
 }
 
@@ -35,4 +36,18 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+p{
+  font-size: larger;
+  margin-bottom: 50px;
+  color: antiquewhite;
+  font-weight: bolder;
+}
+h3{
+  background-color: #ffffff;
+  margin: 15px;
+  color: slateblue;
+  padding: 10px;
+  border-radius: 30px;
 }
