@@ -25,8 +25,8 @@ const SinglePage = () => {
   return (
     <div className="App" id="time">
       <header className="App-header">
-        <p>Journey starts...</p>
-        <div style={{display: "flex"}}>
+        <p>Time is most precious.!</p>
+        <div style={{ display: "flex" }}>
           <h3>{`Days ${dateObj?.days} `}</h3>
           <h3>{`Hours ${dateObj?.hours} `}</h3>
           <h3>{`Minutes ${dateObj?.minutes} `}</h3>
