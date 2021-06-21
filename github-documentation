@@ -1,0 +1,13 @@
+https://dev.to/yuribenjamin/how-to-deploy-react-app-in-github-pages-2a1f
+https://github.com/gitname/react-gh-pages
+
+STEP 1: Create a sample project
+STEP 2: Create new repositiory 
+STEP 3: install gh-pages
+STEP 4: inside package.json file, add homepage: "http://{github-username}.github.io/{repo-name}"
+STEP 5: inside package.json file, inside scripts add "predeploy": "npm or yarn run build", "deploy": "gh-pages -d build" 
+STEP 6: git init
+STEP 7: git remote add origin repositiory URL
+STEP 8: npm run deploy. (will deploy the sample project in github pages)
+STEP 9: to get the URL, bottom of repositiory settings page will have URL.
+STEP 10: Hear after, push and deploy. check the changes in same URL
