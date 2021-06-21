@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/vishnuprabhur-89/singlepage-gh.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/vishnuprabhur-89/singlepage-gh.git/static/js/main.ed4f09f3.chunk.js",
+    "main.js.map": "/vishnuprabhur-89/singlepage-gh.git/static/js/main.ed4f09f3.chunk.js.map",
+    "runtime-main.js": "/vishnuprabhur-89/singlepage-gh.git/static/js/runtime-main.83cfc60a.js",
+    "runtime-main.js.map": "/vishnuprabhur-89/singlepage-gh.git/static/js/runtime-main.83cfc60a.js.map",
+    "static/js/2.25570ec3.chunk.js": "/vishnuprabhur-89/singlepage-gh.git/static/js/2.25570ec3.chunk.js",
+    "static/js/2.25570ec3.chunk.js.map": "/vishnuprabhur-89/singlepage-gh.git/static/js/2.25570ec3.chunk.js.map",
+    "static/js/3.8e21aac2.chunk.js": "/vishnuprabhur-89/singlepage-gh.git/static/js/3.8e21aac2.chunk.js",
+    "static/js/3.8e21aac2.chunk.js.map": "/vishnuprabhur-89/singlepage-gh.git/static/js/3.8e21aac2.chunk.js.map",
+    "index.html": "/vishnuprabhur-89/singlepage-gh.git/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/vishnuprabhur-89/singlepage-gh.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.25570ec3.chunk.js.LICENSE.txt": "/vishnuprabhur-89/singlepage-gh.git/static/js/2.25570ec3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/vishnuprabhur-89/singlepage-gh.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.83cfc60a.js",
+    "static/js/2.25570ec3.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ed4f09f3.chunk.js"
+  ]
+}
